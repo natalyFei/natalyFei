@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Привет! Я Наталья Глушак
 
-<!--
-**natalyFei/natalyFei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Системный аналитик | Москва
 
-Here are some ideas to get you started:
+[![Перейти к полному резюме](https://img.shields.io/badge/📄_Моё_полное_резюме-View-blue)](https://github.com/natalyFei/resume)
+[![Email](https://img.shields.io/badge/Email-pohodeiko_nataly@mail.ru-red)](mailto:pohodeiko_nataly@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@taknata-blue)](https://t.me/taknata)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Ключевые компетенции
+- Анализ и формализация требований
+- Проектирование API (REST, GraphQL, AsyncAPI)
+- Моделирование данных (ERD, SQL)
+- Работа с ИИ для автоматизации задач
+
+### 📌 Актуальные проекты
+- Прохожу курс "Системный аналитик" (2024)
+
+---
