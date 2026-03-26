@@ -24,12 +24,6 @@
 
 ---
 
-## 🛠 Инструменты
-- Git, GitHub
-- PostgreSQL
-- Draw.io / PlantUML
-- Jira, Confluence (изучаю)
-
 ## 📂 Мои проекты
 - [📚 Портфолио системного аналитика](https://github.com/natalyFei/natalia-sa-portfolio) — здесь я выкладываю свои работы, решения задач и пет-проекты
 
